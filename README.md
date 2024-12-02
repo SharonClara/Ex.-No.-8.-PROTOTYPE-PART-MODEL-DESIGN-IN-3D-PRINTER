@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2024-12-02 at 11 18 24_ff08b23e](https://github.com/user-attachments/assets/4077e173-8dcb-4132-a88d-b5b142c63bcf)
 
-### Name:
-### Register Number:
+### Name: A.SHARON CLARA
+### Register Number:24900191
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
